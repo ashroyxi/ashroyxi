@@ -1,7 +1,7 @@
 
 <div align="center">
 <a href="https://discord.com/users/758693690029113384">
-  <img src="https://lanyard.cnrad.dev/api/758693690029113384?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20">
+  <img src="https://lanyard.cnrad.dev/api/758693690029113384?theme=light&bg=F4BFC7&borderRadius=15px&animated=true">
 </a>
 </div>
 

@@ -3,8 +3,8 @@
 <a href="https://discord.com/users/758693690029113384">
   <img src="https://lanyard.cnrad.dev/api/758693690029113384?theme=light&bg=F4BFC7&borderRadius=15px&animated=true">
 </a>
-</div>
 
+![Discord Banner 2](https://discordapp.com/api/guilds/690991422983241728/widget.png?style=banner2)
 
 ## Stats
 <br/>

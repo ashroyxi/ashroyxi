@@ -1,7 +1,7 @@
 
 <div align="center">
 <a href="https://discord.com/users/758693690029113384">
-  <img src="https://lanyard.cnrad.dev/api/758693690029113384?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=I%20Can%20Lose%20Everything%20But%20Not%20You%20Oh%20God%20Not%20You">
+  <img src="https://lanyard.cnrad.dev/api/758693690029113384?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=I%20am%20given%20and%20I%20am%20taken.%20I%20was%20there%20at%20your%20first%20breath,%20But%20you%20didn't%20ask%20for%20me.%20But%20I%20will%20follow%20you%20till%20your%20death.">
 </a>
 
 ![Discord Banner 2](https://discordapp.com/api/guilds/690991422983241728/widget.png?style=banner2)

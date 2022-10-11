@@ -4,8 +4,6 @@
   <img src="https://lanyard.cnrad.dev/api/758693690029113384?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=Goats%20are%20like%20mushrooms,%20if%20you%20shoot%20a%20duck%20I'm%20scared%20of%20toasters.">
 </a>
 
-![Discord Banner 2](https://discordapp.com/api/guilds/690991422983241728/widget.png?style=banner2)
-
 ## Stats
 <br/>
 <p align="left">
